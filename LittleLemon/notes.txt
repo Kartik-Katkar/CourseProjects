@@ -1,0 +1,47 @@
+super user:
+username: admin
+email: admin@littlelemon.com
+password: lemon@789!
+
+------------------------------------------------------------
+
+managers:
+username: manager1
+email: manager1@lemon.com
+password: lemon@000!
+
+username: manager2
+email: manager2@lemon.com
+password: lemon@000!
+
+------------------------------------------------------------
+
+customers:
+username: customer1
+email: customer1@lemon.com
+password: lemon@123!
+
+customers:
+username: customer2
+email: customer2@lemon.com
+password: lemon@123!
+
+------------------------------------------------------------
+
+delivery:
+username: delivery1
+email: delivery1@lemon.com
+password: lemon@456!
+
+username: delivery2
+email: delivery2@lemon.com
+password: lemon@456!
+
+--------------------------------------------------
+
+test users:
+username: testuser1
+email: testuser1@lemon.com
+password: lemon@852!
+
+--------------------------------------------------
